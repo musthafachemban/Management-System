@@ -1,0 +1,22 @@
+{
+  "employee": [
+    {
+      "name": "Anfas",
+      "role": "senior",
+      "salary": "10000",
+      "id": "52b6"
+    },
+    {
+      "id": "9221",
+      "name": "musthafa",
+      "role": "manager",
+      "salary": "120000"
+    },
+    {
+      "name": "anafs",
+      "role": "ceo",
+      "salary": "1000",
+      "id": "3e95"
+    }
+  ]
+}
